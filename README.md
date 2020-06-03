@@ -1,2 +1,0 @@
-# JSBreakOut
-Created with CodeSandbox
